@@ -9,6 +9,7 @@ public class HellloGit {
         MotaBhai.print();
         FourthChange.print();
         Fifthchange.print();
+        SixthChange.print();
 	}
 
 }
