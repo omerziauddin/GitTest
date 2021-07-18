@@ -10,6 +10,7 @@ public class HellloGit {
         FourthChange.print();
         Fifthchange.print();
         SixthChange.print();
+        System.out.println("seventh change");
 	}
 
 }
