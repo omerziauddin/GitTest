@@ -6,6 +6,7 @@ public class HellloGit {
         System.out.println("from second branch newBranchOmer");
         System.out.println("changed 1st time from second branch newBranchOmer");
         NewBranchOmer.print();
+        MotaBhai.print();
 	}
 
 }
